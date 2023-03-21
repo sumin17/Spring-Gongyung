@@ -1,8 +1,8 @@
 # 🚘 Spring-Gongyung
-기존의 주유소 가격 비교 웹서비스 gongyung을 Spring Framework로 마이그레이션 </br>
-Spring Framework + Javascript 크롤링 _ 주유소 가격 비교 웹서비스
+**기존의 주유소 가격 비교 웹서비스 gongyung을 Spring Framework로 마이그레이션** </br>
+- Spring Framework + Javascript 크롤링 _ 주유소 가격 비교 웹서비스 
 </br>
-</br>
+
 ## 💡 프로젝트 소개
 높아지는 물가에 따라 발생되는 주유의 문제. </br>
 부산지역의 나의 주유 (가격) 스타일과 상대적으로 저렴한 주유소에서 주유를 도와주는 웹서비스 (예 : opinet) 
@@ -32,12 +32,4 @@ Spring Framework + Javascript 크롤링 _ 주유소 가격 비교 웹서비스
 - 시/군/구, 읍/면/동 조회를 이용해 그 지역의 주유소 조회 기능
 - 주유소 선택 시 주유가격, 순위, 일주일 가격 그래프 표시 기능
 
-- Servlet 구현 코드를 spring framework로 마이그레이션 중
-</br>
-
-
-
-
-
-
-
+- **Servlet 구현 코드를 spring framework로 마이그레이션 중**
